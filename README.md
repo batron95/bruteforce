@@ -1,4 +1,9 @@
 # bruteforce
+
+
+USAGE:  Usage: ./bruteforce.sh <password_file>
+
+
 The script will:
 
 1. Read each password from the provided password list.
