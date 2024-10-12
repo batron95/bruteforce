@@ -7,7 +7,7 @@ if [ "$#" -ne 1 ]; then
 fi
 
 # URL of the login page
-url="http://caption.htb:8080/signin"
+url="your_target_url"
 
 # Username to use
 username="root"
